@@ -1,0 +1,14 @@
+{
+  "name": "choala-mvc",
+  "version": "1.0.0",
+  "description": "A simple MVC of my chaos planning app",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-schedule": "^1.2.5",
+    "twilio": "^3.10.1"
+  }
+}
